@@ -1,11 +1,11 @@
-# 🚀 DevOps Cloud Project
+#  DevOps Cloud Project
 
 Hello, I'm Chiraz 👋  
 DevOps Engineer passionate about Cloud, Automation and Infrastructure as Code.
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project demonstrates a complete DevOps pipeline:
 
@@ -17,7 +17,7 @@ This project demonstrates a complete DevOps pipeline:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - Python (Flask)
 - Docker
@@ -28,7 +28,7 @@ This project demonstrates a complete DevOps pipeline:
 
 ---
 
-## 📦 Features
+##  Features
 
 - REST API (`/api`)
 - Health check (`/health`)
@@ -38,7 +38,7 @@ This project demonstrates a complete DevOps pipeline:
 
 ---
 
-## 🚀 How to run locally
+##  How to run locally
 
 ```bash
 pip install -r app/requirements.txt
